@@ -1,5 +1,3 @@
-<h1 align="center">BPB Panel 💦</h1>
-
 ## Supported Clients
 
 |       Client        |     Version      |      Fragment      |      Warp Pro      |
